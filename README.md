@@ -1,1 +1,1 @@
-
+Dette er mine noter
