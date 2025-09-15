@@ -2,9 +2,8 @@
 
 [[Toulminds argumentationsmodel]]
 
-[[Habermas' offentlighedsmodel]]
+[[Nyhedsartikel]]
 
-[[De fem nyhedskritier]]
 
 
 Reklame: Produkt, Kampagne: Budskab
