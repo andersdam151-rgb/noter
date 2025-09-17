@@ -1,6 +1,8 @@
 [[Habermas' offentlighedsmodel]]
 
 [[De fem nyhedskritier]]
+
+[[Avisen's genrer]]
 ## Layout
 Genretag/Sektion er den overordnede ramme artiklen går under
 Rubrikken er titlen
