@@ -13,3 +13,4 @@ Det er et problem, at mange overvægtige børn har dårlig motorik.
 - Hvilke udfordringer gælder særligt for overvægtige børn?
 - Hvor mange legepladser findes der til overvægtige børn?
 - Hvad skal en legeplads til overvægtige børn indeholde?
+
