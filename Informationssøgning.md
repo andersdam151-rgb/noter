@@ -16,3 +16,7 @@ Inden vi begynder at søge efter materiale om et emne, vil det være en gode id�
 [[Tjekliste til Kildekritik]]
 Når man søger information er det vigtigt, at man er kildekritisk. Har man styr på, hvem kilden er, om kilden er pålidelig og om informationerne er troværdige. Det er også vigtig at vide om hvilke interesser kilden har og varetager og til sidst om informationerne overhovedet er relevante.
 
+#### Litteraturlisteautomaten
+http://litteraturlisteautomaten.dk/
+
+
