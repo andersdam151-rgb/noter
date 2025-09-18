@@ -2,7 +2,7 @@
 ## Problemidentifikation
 Mindmap
 ## Problemanalyse
-Problemtræ + [[Informationssøgning]]
+Problemtræ
 
 Eksempel: Problemformulering
 
@@ -14,3 +14,4 @@ Det er et problem, at mange overvægtige børn har dårlig motorik.
 - Hvor mange legepladser findes der til overvægtige børn?
 - Hvad skal en legeplads til overvægtige børn indeholde?
 
+Problembearbejdning via.[[Informationssøgning]]
