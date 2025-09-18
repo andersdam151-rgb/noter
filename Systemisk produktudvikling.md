@@ -3,3 +3,4 @@
 Mindmap
 ## Problemanalyse
 Problemtræ + [[Informationssøgning]]
+
