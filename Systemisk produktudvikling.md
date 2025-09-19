@@ -2,7 +2,7 @@
 ## Problemidentifikation
 Mindmap
 ## Problemanalyse
-Problemtræ
+Problemtræ med afgrænsning
 
 Eksempel: Problemformulering
 
@@ -16,5 +16,5 @@ Det er et problem, at mange overvægtige børn har dårlig motorik.
 
 
 
-Problembearbejdning via. [[Informationssøgning]]
+Problembearbejdning via. [[Informationssøgning]], hvor man skal dokumentere ved hjælp of figurer at problemtræet er et reelt problem via. kilder
 
