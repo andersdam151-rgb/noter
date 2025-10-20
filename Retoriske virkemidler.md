@@ -1,19 +1,19 @@
 Udfyld skemaet nedenfor. Find gerne selv på eksempler.
 
-|                           |                                                                              |              |
-| ------------------------- | ---------------------------------------------------------------------------- | ------------ |
-| **Begreb**                | **Forklaring og funktion**                                                   | **Eksempel** |
-| Metafor                   | Når man bruger fx ordsprog eller siger noget mærkeligt for at beskrive noget |              |
-| Sammenligning             |                                                                              |              |
-| Gentagelse                |                                                                              |              |
-| Anafor og epifor          |                                                                              |              |
-| Retorisk spørgsmål        |                                                                              |              |
-| Allitteration og assonans |                                                                              |              |
-| Tretrinsraket             |                                                                              |              |
-| Emotiv (værdiladede ord)  |                                                                              |              |
-| Kontrast og antitese      |                                                                              |              |
-| Personliggørelse          |                                                                              |              |
-| Hyperbel                  |                                                                              |              |
-| Ironi                     |                                                                              |              |
-| Allusion                  |                                                                              |              |
+|                           |                                                                                                                                            |                                                                           |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------- |
+| **Begreb**                | **Forklaring og funktion**                                                                                                                 | **Eksempel**                                                              |
+| Metafor                   | Når man bruger fx ordsprog eller siger noget mærkeligt for at beskrive noget                                                               | Fx hvis en polittiker siger jeg har ikke fejet noget ind under gulvtæppet |
+| Sammenligning             | Når man sætter en egenskab fra noget over på noget andet fx i eksemplet tager vi det smukke fra rosen og sætter det over på vores karakter | Hun er smuk som en rose                                                   |
+| Gentagelse                | Når man siger det samme igen og igen                                                                                                       | I have a dream... ...I have a dream... ...I have a dream                  |
+| Anafor og epifor          |                                                                                                                                            |                                                                           |
+| Retorisk spørgsmål        |                                                                                                                                            |                                                                           |
+| Allitteration og assonans |                                                                                                                                            |                                                                           |
+| Tretrinsraket             |                                                                                                                                            |                                                                           |
+| Emotiv (værdiladede ord)  |                                                                                                                                            |                                                                           |
+| Kontrast og antitese      |                                                                                                                                            |                                                                           |
+| Personliggørelse          |                                                                                                                                            |                                                                           |
+| Hyperbel                  |                                                                                                                                            |                                                                           |
+| Ironi                     |                                                                                                                                            |                                                                           |
+| Allusion                  |                                                                                                                                            |                                                                           |
 
