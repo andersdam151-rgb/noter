@@ -4,6 +4,7 @@
 
 [[Nyhedsartikel]]
 
+[[Retoriske virkemidler]]
 
-
-Reklame: Produkt, Kampagne: Budskab
+	Reklame: Produkt, Kampagne: Budskab
+		
