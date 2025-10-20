@@ -1,3 +1,5 @@
+[[(Ciceros) Retoriske Pentagram]]
+
 Udfyld skemaet nedenfor. Find gerne selv på eksempler.
 
 |                           |                                                                                                                                                                                              |                                                                                                                                                                                                                 |
