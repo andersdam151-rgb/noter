@@ -5,7 +5,6 @@ Mindmap
 Problemtræ med afgrænsning
 Problemanalyse
 
-
 Problembearbejdning via. [[Informationssøgning]], hvor man skal dokumentere ved hjælp of figurer at problemtræet er et reelt problem via. kilder
 
 Problemformulering eksempel:
