@@ -20,10 +20,10 @@ Det er et problem, at mange overvægtige børn har dårlig motorik.
 
 
 ## Produktprincip
-Kravspecifikation H+B (Hårde og Bløde), de skal have både begrundelse og vægtning (Hårde: 1-5, og Bløde: 6-10)
-Målbarekrav
+Kravspecifikation Målbare krav H+B (Hårde og Bløde), de skal have både begrundelse og vægtning (Hårde: 1-5, og Bløde: 6-10)
+
 Idegenerering/Idesortering
-skitsefase og P gange V skema
+skitsefase (DPU) og P gange V skema
 
 ## Produktudforming
 Materialevalg
@@ -32,6 +32,6 @@ Arbejdstegninger (Flowdiagram)
 ## Produktionsforberedelse
 
 ## Realisering
-Dokumentation
+Værksteds Dokumentation
 Test af produkt
 
