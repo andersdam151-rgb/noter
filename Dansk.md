@@ -2,7 +2,7 @@
 
 [[Påtrængende Problemer]]
 
-[[Toulminds argumentationsmodel]]
+[[Toulmins argumentationsmodel]]
 
 [[Bitzers Teori]]
 
