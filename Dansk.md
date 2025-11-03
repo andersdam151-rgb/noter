@@ -4,6 +4,8 @@
 
 [[Toulminds argumentationsmodel]]
 
+[[Bitzers Teori]]
+
 [[Nyhedsartikel]]
 
 [[Retoriske virkemidler]]
