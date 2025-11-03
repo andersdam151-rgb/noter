@@ -1,6 +1,6 @@
 [[Appelformer]] handler om hvordan man overbeviser modtageren.
 
-Men hvad består et argument egenligt af? Man kan bruge Toulmins argumentations-model til at analysere og opbygge gode argumenter
+Men hvad består et argument egentligt af? Man kan bruge Toulmins argumentations-model til at analysere og opbygge gode argumenter
 
 **Påstand**: Synspunktet, afsenderen ønsker at overbevise modtageren om.  
 **Belæg**: Begrundelsen for påstanden, fx. bevis eller fakta. (Fælles sandhed)  
