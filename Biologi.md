@@ -1,0 +1,8 @@
+[[Cellebiologi]]
+[[Makromolekyler]]
+[[Enzymer]]
+[[Biokemiske Processer]]
+[[Genetik og molekylær-biologi]]
+[[Evolutions-teori]]
+[[Fysiologi]]
+[[Økologi]]
