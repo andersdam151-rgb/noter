@@ -1,4 +1,5 @@
 Fag:
+[[Fysik]]
 [[Kemi]]
 [[Biologi]]
 
