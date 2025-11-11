@@ -17,7 +17,7 @@ Blågrønne alger De udskillede ilt, hvilket gjorde at ozonlaget dannedes
 
 2)      Hvilken rolle har ozonlaget for livet på jorden?
 
-Ozonlaget blokerer skadelig stråling fra solen
+Ozonlaget blokerer skadelig stråling (UV) fra solen
 
 3)      Hvilke forskelle og ligheder er der i udviklingen mellem planteceller og dyreceller ifølge endosymbiontteorien?
 
